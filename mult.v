@@ -32,3 +32,4 @@ module pe(clk,reset,in_a,in_b,out_a,out_b,out_c);
       out_b=in_b;
     end
  end
+endmodule
